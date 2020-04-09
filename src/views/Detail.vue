@@ -3,19 +3,19 @@
     <div>
       <div>
         <div class="breadcrumb-wrap">
-        <a href="/history" class="breadcrumb">История</a>
+        <a href="/history" class="breadcrumb">history</a>
         <a class="breadcrumb">
-        Расход
+          Розхід
         </a>
         </div>
         <div class="row">
           <div class="col s12 m6">
             <div class="card red">
               <div class="card-content white-text">
-                <p>Описание:</p>
-                <p>Сумма:</p>
-                <p>Категория:</p>
-                <small>12.12.12</small>
+                <p>Description:</p>
+                <p>Sum:</p>
+                <p>Category:</p>
+                <small>10.10.2020</small>
               </div>
             </div>
           </div>

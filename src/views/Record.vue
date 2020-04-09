@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="page-title">
-      <h3>Новая запись</h3>
+      <h3>New record</h3>
     </div>
 
     <form class="form">
@@ -10,7 +10,7 @@
           <option
           >name cat</option>
         </select>
-        <label>Выберите категорию</label>
+        <label>Choose category</label>
       </div>
 
       <p>
